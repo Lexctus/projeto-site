@@ -1,0 +1,18 @@
+header{
+    background-color: black;
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger 70px;
+}
+main{
+    background-color: darkslategrey;
+    color: white;
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+p{
+    text-align: justify;
+    font-family: monospace;
+    font-size: 30px;
+}
